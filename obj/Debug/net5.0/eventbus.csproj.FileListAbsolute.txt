@@ -1,0 +1,16 @@
+D:\project\demo\eventBus\bin\Debug\net5.0\eventbus.exe
+D:\project\demo\eventBus\bin\Debug\net5.0\eventbus.deps.json
+D:\project\demo\eventBus\bin\Debug\net5.0\eventbus.runtimeconfig.json
+D:\project\demo\eventBus\bin\Debug\net5.0\eventbus.runtimeconfig.dev.json
+D:\project\demo\eventBus\bin\Debug\net5.0\eventbus.dll
+D:\project\demo\eventBus\bin\Debug\net5.0\ref\eventbus.dll
+D:\project\demo\eventBus\bin\Debug\net5.0\eventbus.pdb
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.csprojAssemblyReference.cache
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.AssemblyInfoInputs.cache
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.AssemblyInfo.cs
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.csproj.CoreCompileInputs.cache
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.dll
+D:\project\demo\eventBus\obj\Debug\net5.0\ref\eventbus.dll
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.pdb
+D:\project\demo\eventBus\obj\Debug\net5.0\eventbus.genruntimeconfig.cache
